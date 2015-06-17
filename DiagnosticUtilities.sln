@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticUtilities", "DiagnosticUtilities\DiagnosticUtilities.csproj", "{0D340CFB-1E4E-4D53-861B-73F24C7A945C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiagnosticUtilities.UnitTests", "DiagnosticUtilities.UnitTests\DiagnosticUtilities.UnitTests.csproj", "{73FE4E49-5DD7-4CC5-B743-797FC74991FA}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://healthcatalyst.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DiagnosticUtilities\\DiagnosticUtilities.csproj
+		SccProjectName1 = DiagnosticUtilities
+		SccLocalPath1 = DiagnosticUtilities
+		SccProjectUniqueName2 = DiagnosticUtilities.UnitTests\\DiagnosticUtilities.UnitTests.csproj
+		SccProjectName2 = DiagnosticUtilities.UnitTests
+		SccLocalPath2 = DiagnosticUtilities.UnitTests
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D340CFB-1E4E-4D53-861B-73F24C7A945C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D340CFB-1E4E-4D53-861B-73F24C7A945C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D340CFB-1E4E-4D53-861B-73F24C7A945C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D340CFB-1E4E-4D53-861B-73F24C7A945C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73FE4E49-5DD7-4CC5-B743-797FC74991FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FE4E49-5DD7-4CC5-B743-797FC74991FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FE4E49-5DD7-4CC5-B743-797FC74991FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FE4E49-5DD7-4CC5-B743-797FC74991FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
